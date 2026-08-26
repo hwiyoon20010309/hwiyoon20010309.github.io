@@ -1,152 +1,98 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Choi Hwiyoon",
+    "email": "hwiyoon01@naver.com",
+    "phone": "010-5623-1045",
+    "website": "https://hwiyoon20010309.github.io",
+    "summary": "데이터 분석부터 프론트엔드·백엔드·AI 모델링까지 전체 파이프라인을 직접 구축해본 풀스택 AI 엔지니어입니다.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Seoul",
+      "countryCode": "KR",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "hwiyoon20010309",
+        "url": "https://github.com/hwiyoon20010309"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "SKALA (SK AI Leader Academy)",
+      "area": "AI Engineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "endDate": "2025",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
+  "certifications": [
+    {
+      "name": "SQL 개발자 (SQLD)",
+      "date": "2024-12"
+    },
+    {
+      "name": "데이터 분석 준전문가 (ADsP)",
+      "date": "2025-06"
+    }
+  ],
+  "awards": [
+    {
+      "title": "OO 대학교 해커톤 우수상",
+      "date": "2024-07"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frontend",
+      "keywords": ["React", "TypeScript", "Recoil", "Chart.js", "Next.js"]
+    },
+    {
+      "name": "Backend",
+      "keywords": ["Spring", "FastAPI", "Node.js", "Express"]
+    },
+    {
+      "name": "Data & AI",
+      "keywords": ["LLM Prompt Engineering", "LangGraph Multi-Agent", "CLIP", "Sentence-BERT", "PageRank/Jaccard Similarity", "Regression Modeling"]
+    },
+    {
+      "name": "Infra & DB",
+      "keywords": ["MySQL", "MongoDB", "Qdrant", "AWS EC2/S3", "Docker", "Kubernetes", "GitHub Actions", "Nginx"]
+    }
+  ],
   "languages": [],
   "interests": [],
   "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
+  "publications": [],
+  "presentations": [],
+  "teaching": [],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
+      "name": "SPEED-JOBS — AI 기반 채용 인텔리전스 대시보드",
+      "category": "portfolio",
+      "date": "2025-07",
+      "url": "/portfolio/portfolio-1/",
+      "description": "경쟁사 채용 공고 데이터를 기반으로 채용 현황·트렌드 분석, 스킬 키워드, 공고 품질 평가까지 제공하는 AI 채용 인텔리전스 서비스"
+    },
+    {
+      "name": "CultureLens — 딥러닝 기반 생성형 AI의 문화적 인식 향상",
       "category": "portfolio",
       "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "url": "/portfolio/portfolio-2/",
+      "description": "AI가 생성한 이미지-설명의 문화적 적절성을 정량 평가하고, Human-in-the-loop 학습을 통해 편향을 완화하는 예측 모델 설계"
+    },
+    {
+      "name": "TeachING — 흩어진 정보를 연결해 나만의 지식으로 만드는 AI 학습 서비스",
+      "category": "portfolio",
+      "date": "",
+      "url": "/portfolio/portfolio-3/",
+      "description": "수집한 자료를 분석해 하나뿐인 맞춤형 학습 로드맵을 설계하는 AI 학습 서비스"
     }
   ]
 }
