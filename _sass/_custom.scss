@@ -1,0 +1,32 @@
+/* ==========================================================================
+   CUSTOM OVERRIDES — extra breathing room in page content, no overlap
+   ========================================================================== */
+
+.page__content {
+
+  h2 {
+    margin-top: 3em !important;
+    margin-bottom: 1em !important;
+    clear: both;
+  }
+
+  h2:first-child,
+  p + h2 {
+    margin-top: 2em !important;
+  }
+
+  ul, ol {
+    margin-bottom: 1.5em;
+  }
+
+  li {
+    margin-bottom: 0.5em;
+    line-height: 1.6;
+    overflow-wrap: break-word;
+  }
+
+  p {
+    line-height: 1.7;
+    overflow-wrap: break-word;
+  }
+}
