@@ -30,3 +30,36 @@
     overflow-wrap: break-word;
   }
 }
+
+/* ==========================================================================
+   Always show the sidebar social/contact links — the "Follow" toggle
+   button has been removed, so the list must never rely on it to appear.
+   ========================================================================== */
+
+.author__urls {
+  display: block !important;
+  position: static !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;
+  background: transparent !important;
+  box-shadow: none !important;
+
+  &:before,
+  &:after {
+    display: none !important;
+  }
+}
+
+/* ==========================================================================
+   Give the main content column the same breathing room on its left side
+   that the sidebar already has on its outer edge, so the profile column
+   and the text column don't feel like they're touching.
+   ========================================================================== */
+
+@include breakpoint($large) {
+  .page {
+    padding-left: 5em;
+  }
+}
+
