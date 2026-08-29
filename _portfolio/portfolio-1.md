@@ -4,6 +4,8 @@ excerpt: "경쟁사 채용 공고 데이터를 기반으로 채용 현황·트�
 collection: portfolio
 ---
 
+![SpeedJobs 대표 화면](/images/portfolio/speedjobs-preview.png)
+
 ## 개요
 
 대규모 채용 공고 데이터를 기반으로 경쟁사 채용 현황·트렌드 분석·스킬 키워드·공고 품질 평가까지 제공하는 AI 채용 인텔리전스 서비스입니다. 경험 중심의 채용 판단(AS-IS)을 AI로 설명 가능한 채용 전략(TO-BE)으로 바꾸는 것을 목표로 했습니다.

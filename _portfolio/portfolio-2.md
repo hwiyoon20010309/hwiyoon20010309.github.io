@@ -4,6 +4,8 @@ excerpt: "AI가 생성한 이미지-설명의 문화적 적절성을 정량 평�
 collection: portfolio
 ---
 
+![CultureLens 대표 화면](/images/portfolio/culturelens-preview.png)
+
 ## 개요
 
 AI가 생성한 이미지-설명의 문화적 적절성을 정량 평가하고, Human-in-the-loop 학습을 통해 편향을 완화하는 예측 모델을 설계한 프로젝트입니다. CLIP 등 대규모 비전-언어 모델은 서구 중심 데이터로 학습되어 비서구권 문화(한복, 한옥 등) 요소를 "의상", "집"처럼 모호하게 일반화해 문화적 맥락과 정체성을 제대로 반영하지 못한다는 문제의식에서 출발했습니다.

@@ -4,6 +4,8 @@ excerpt: "수집한 자료를 분석해 하나뿐인 맞춤형 학습 로드맵�
 collection: portfolio
 ---
 
+![TeachING 대표 화면](/images/portfolio/teaching-preview.png)
+
 ## 개요
 
 TeachING은 링크 하나만으로 학습 자료를 자동 수집·분석하여, 나만의 학습 로드맵으로 정리해주는 AI 학습 서비스입니다. 흩어져 있는 정보를 연결해 하나의 지식 체계로 만드는 것을 목표로 합니다.
