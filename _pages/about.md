@@ -19,9 +19,18 @@ redirect_from:
 ## Education
 * 2025 — SKALA | SK AI Leader Academy
 
+## Experience
+* **서한 — IT 기획 인턴** (2023.12 ~ 2024.02)
+  * 사내 ERP 시스템의 인사관리 모듈 UI 개선 및 프론트엔드 개발
+  * 인사정보 조회, 조직도 관리, 근태 및 인사 데이터 관리 화면의 UI 구현 및 유지보수
+  * React 기반 화면 개발 및 컴포넌트 재사용 구조 적용을 통한 유지보수
+
 ## Certification
 * 2025.06 — 데이터 분석 준전문가 (ADsP)
 * 2024.12 — SQL 개발자 (SQLD)
+
+## Language
+* 2026.03 — TOEIC Speaking Test 140점 (Intermediate High)
 
 ## Awards
 * 2026.08 — UMC 10th DEMODAY 최우수상
