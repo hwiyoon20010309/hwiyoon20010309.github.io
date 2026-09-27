@@ -1,6 +1,6 @@
 ---
 title: "TeachING — 흩어진 정보를 연결해 나만의 지식으로 만드는 AI 학습 서비스"
-excerpt: "수집한 자료를 분석해 하나뿐인 맞춤형 학습 로드맵을 설계하는 AI 학습 서비스"
+excerpt: "수집한 자료를 분석해 하나뿐인 맞춤형 학습 로드맵을 설계하는 AI 학습 서비스<br/>Period: 2026.03 - 2026.08"
 collection: portfolio
 ---
 

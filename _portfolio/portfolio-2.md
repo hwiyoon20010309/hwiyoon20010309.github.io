@@ -1,6 +1,6 @@
 ---
 title: "CultureLens — 딥러닝 기반 생성형 AI의 문화적 인식 향상"
-excerpt: "AI가 생성한 이미지-설명의 문화적 적절성을 정량 평가하고, Human-in-the-loop 학습을 통해 편향을 완화하는 예측 모델 설계"
+excerpt: "AI가 생성한 이미지-설명의 문화적 적절성을 정량 평가하고, Human-in-the-loop 학습을 통해 편향을 완화하는 예측 모델 설계<br/>Period: 2025.03 - 2025.08"
 collection: portfolio
 ---
 
